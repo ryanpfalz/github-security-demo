@@ -6,6 +6,7 @@ on:
 
 jobs:
   sample:
+    permissions: write-all
     name: Microsoft Security DevOps Analysis
 
     # MSDO runs on windows-latest.
